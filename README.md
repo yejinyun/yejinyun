@@ -1,5 +1,5 @@
 
-### 👋 안녕하세요, "세계를 살자" 라는 좌우명을 갖고 살아가는 윤에진입니다.
+### 👋 안녕하세요, 윤에진입니다 :
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yejinyun&show_icons=true&theme=radical)
 
