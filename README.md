@@ -1,5 +1,5 @@
 
-### 👋 안녕하세요, 윤에진입니다 :
+### 👋 안녕하세요, 윤예진입니다!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yejinyun&show_icons=true&theme=radical)
 
